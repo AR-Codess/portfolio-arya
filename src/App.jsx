@@ -350,7 +350,7 @@ export default function App() {
             </a>
             <a href="https://wa.me/6285804042119" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-slate-300 hover:text-green-400 transition-colors relative z-20">
               <div className="p-3 bg-white/5 rounded-full"><Phone size={20} /></div>
-              0878-9534-1656
+              0858-0404-2119
             </a>
             <div className="flex items-center gap-3 text-slate-300">
               <div className="p-3 bg-white/5 rounded-full"><MapPin size={20} /></div>
