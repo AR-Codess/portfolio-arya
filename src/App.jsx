@@ -159,8 +159,8 @@ export default function App() {
               View Projects <ChevronRight size={18} />
             </button>
             <a 
-              href="/CV_Arya.pdf" 
-              download="CV_Arya.pdf"
+              href="/CV_Aryabudi.pdf" 
+              download="CV_Aryabudi.pdf"
               className="px-6 py-3 border border-slate-700 hover:border-slate-500 text-white rounded-md transition-all duration-300 flex items-center gap-2 bg-white/5 hover:bg-white/10 relative z-20 cursor-pointer"
             >
               <Download size={18} /> Download CV
