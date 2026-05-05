@@ -348,7 +348,7 @@ export default function App() {
               <div className="p-3 bg-white/5 rounded-full"><Mail size={20} /></div>
               arya0325@yahoo.com
             </a>
-            <a href="https://wa.me/6287895341656" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-slate-300 hover:text-green-400 transition-colors relative z-20">
+            <a href="https://wa.me/6285804042119" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-slate-300 hover:text-green-400 transition-colors relative z-20">
               <div className="p-3 bg-white/5 rounded-full"><Phone size={20} /></div>
               0878-9534-1656
             </a>
